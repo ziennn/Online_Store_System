@@ -1,4 +1,8 @@
 # Online-Store-System using C++
+</br>
+The idea got from the original source:
+
+
 
 Disclaimer: This is just our Final Project in course Programming Language, please bare with the minimal errors. Thank you! :)
 
